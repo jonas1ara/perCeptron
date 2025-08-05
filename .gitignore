@@ -1,0 +1,9 @@
+datos/
+
+*.o
+*.out
+*.csv
+*.Identifier
+*.log
+
+
